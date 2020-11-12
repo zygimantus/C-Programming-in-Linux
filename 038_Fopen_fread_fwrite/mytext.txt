@@ -1,0 +1,4 @@
+I love to program in C.
+It is one of my favorite programming languages.
+It is used in both application and embedded systems.
+If I have to chose my first language, it will be C programming language.
