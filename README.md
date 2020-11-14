@@ -7,6 +7,7 @@ Based on this [link](https://www.youtube.com/playlist?list=PLypxmOPCOkHXbJhUgjRa
 
 Following configuration for vim used:
 
+```
 filetype plugin indent on
 syntax on
 
@@ -16,3 +17,4 @@ set incsearch
 
 map <F9> :w <CR> :!clear && gcc % <CR>
 map <C-F9> :w <CR> :!clear && gcc % -o %< && ./%< <CR>
+```
